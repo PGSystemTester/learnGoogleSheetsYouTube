@@ -1,0 +1,32 @@
+<h1>Search</h1>
+
+<div class="mb-3">
+  <input type="text" class="form-control" id="searchInput" placeholder="search...">
+</div>
+
+<table class="table table-hover">
+
+  <thead>
+    <tr>
+      <th scope="col">#</th>
+      <th scope="col">First</th>
+      <th scope="col">Last</th>
+      <th scope="col"></th>
+      <th scope="col"></th>
+    </tr>
+  </thead>
+  <tbody id="searchResults">
+
+  </tbody>
+</table>
+
+<template id="rowTemplate">
+  <tr>
+    <th class="custID" scope="row"></th>
+    <td class="firstName"></td>
+    <td class="lastName"></td>
+    <td><button type="button" class="btn btn-dark">Edit</button></td>
+    <td><button type="button" class="btn btn-dark">Delete</button></td>
+
+  </tr>
+</template>
