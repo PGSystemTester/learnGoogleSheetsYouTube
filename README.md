@@ -9,10 +9,10 @@ Don't be one of those people that grabs code, and silently thinks this is cool a
 
 ### Drop Like To Videos 
 *It takes no more than 12 seconds to go to one of these pages and give the video a like, **and costs you nothing!***
-These videos have source code posted in repository.
+These videos have source code posted in repository:
 
- - [Crude Web App Part 1[(https://youtu.be/6zFowiTNhqI)
- - [Crude Web App Part 2[(https://youtu.be/1CSPpsBGlQ0)
+ - [Crude Web App Part 1](https://youtu.be/6zFowiTNhqI)
+ - [Crude Web App Part 2](https://youtu.be/1CSPpsBGlQ0)
 
 ### Financial Donations
 The creator accepts paypal donations. This link's to the creator's [*about Me YouTube*](https://www.youtube.com/c/LearnGoogleSpreadsheets/about) page, which links to the paypal donation. A direct for link from me should be considered suspicious.
