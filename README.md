@@ -15,7 +15,7 @@ These videos have source code posted in repository:
  - [Crude Web App Part 2](https://youtu.be/1CSPpsBGlQ0)
 
 ### Financial Donations
-The creator accepts paypal donations. This link's to the creator's [*about Me YouTube*](https://www.youtube.com/c/LearnGoogleSpreadsheets/about) page, which links to the paypal donation. A direct for link from me should be considered suspicious.
+The creator accepts paypal donations. Go to the creator's [*about Me YouTube*](https://www.youtube.com/c/LearnGoogleSpreadsheets/about) page, which links to the paypal donation. A direct for link from me should be considered suspicious.
 
 ## More Code?
 I've reached out to the creator about this project, but have not received a response on if source code is anywhere else that he would prefer to take credit for, but have not received a response (if this is creator, please search for an email text Q397T7pZYNMDN8 in it).
