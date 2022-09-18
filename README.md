@@ -2,7 +2,7 @@
 This is the source code from [Learn Google Sheets](https://www.youtube.com/c/LearnGoogleSpreadsheets) who makes absolutely first rate videos on YouTube. I've modified the code slightly in a few instances where I thought was helpful, but overall the code should be almost the same, including variables, functions, page layout.  I'm posting this to help some kids learn a bit, but I **implore** you to consider supporting the creator's channel as he truly does first rate work.
 
 ## Ways To Support Creator (not me)
-Don't be one of those people that grabs code, and silently thinks this is cool and disappar into the internet void leaving the creator no wiser that you have been helped. All code in this depository comes from the youTube channel [Learn Google Sheets & Excel Spreadsheets](https://www.youtube.com/c/LearnGoogleSpreadsheets). Please consider supporting in the methods described below. 
+Don't be one of those people that grabs code, and silently thinks *this is cool* and disappars into the internet void leaving the creator no wiser that you have been helped.  All code in this depository comes from the youTube channel [Learn Google Sheets & Excel Spreadsheets](https://www.youtube.com/c/LearnGoogleSpreadsheets). Please consider supporting the channel in any of the methods described below. 
 
 ### Subcribe to channel
 [Learn Google Sheets & Excel Spreadsheets](https://www.youtube.com/c/LearnGoogleSpreadsheets). Go subscribe. This costs you nothing and if you found this code helpful, you'd probably benefit getting more information. 
